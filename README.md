@@ -7,7 +7,7 @@ mise à jour à partir de la version que j'avais pondue pour la version 3.0.184 
 le readme est en français parce que c'est destiné à servir à passer l'admin de PW en... français, nooon, sans blague !
 
 ---
-les traducteurs de la précédente version destinée à pw 3.0.148 sont
+les traducteurs de la version destinée à pw 3.0.148 sont
 
 * [Vincent Maillard](https://github.com/v-maillard/pw-lang-fr)
 * [Pierre-Luc Auclair](https://github.com/plauclair)
